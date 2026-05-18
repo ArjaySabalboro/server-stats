@@ -28,7 +28,7 @@ sudo dnf install sysstat  # Fedora
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/server-stats.git
+   git clone https://github.com/ArjaySabalboro/server-stats.git
    cd server-stats
    ```
 
